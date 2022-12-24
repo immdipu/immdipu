@@ -1,7 +1,7 @@
 # Hello there, I'm Dipu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">
 
 - 🌱 I’m currently learning everything😊
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers.
 - 📺I also love to watch movies and tv shows
 - 🥅 2022 Goals: Learn more about web development.
 
