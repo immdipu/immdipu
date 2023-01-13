@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything😊
 - 👯 I’m looking to collaborate with other developers.
 - 📺I also love to watch movies and tv shows
-- 🥅 2022 Goals: Learn more about web development.
+- 🥅 2023 Goals: Learn more about web development.
 
 ### Connect with me:
 
