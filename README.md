@@ -5,12 +5,16 @@
 - 📺I also love to watch movies and tv shows
 - 🥅 2023 Goals: Learn more about web development.
 
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=immdipu&label=Profile%20views&color=0e75b6&style=flat" alt="immdipu" /> </p>
+
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/immdipu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/immdipu#gh-dark-mode-only) 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/immdipu/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/immdipu/#gh-dark-mode-only)
+
 
 
 
