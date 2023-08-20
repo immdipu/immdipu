@@ -20,9 +20,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+  <a href="https://skillicons.dev">
+    <img style="aspect-ratio: 1 / 1;" src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,next,mongodb,express,nodejs&theme=dark" />
+  </a>
 
 <br />
 
