@@ -1,9 +1,6 @@
 # Hello there, I'm Dipu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;">
 
-- 🌱 I’m currently learning everything😊
-- 👯 I’m looking to collaborate with other developers.
-- 📺I also love to watch movies and tv shows
-- 🥅 2023 Goals: Learn more about web development.
+Mostly watch movies, sometimes i do coding.
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immdipu&label=Profile%20views&color=0e75b6&style=flat" alt="immdipu" /> </p>
